@@ -37,3 +37,10 @@
   <br>
   <img src ="https://upload.wikimedia.org/wikipedia/commons/1/18/Ipfs-logo-1024-ice-text.png" width = 20%>
  
+ <br>
+
+ **To run the project -**
+ 
+    -step1 - run npm i
+    -step2 - run npm start
+    
