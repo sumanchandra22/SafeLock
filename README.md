@@ -53,6 +53,6 @@
 
  **To run the project -**
  
-    -step1 - run npm i
-    -step2 - run npm start
+    step1 - run npm i
+    step2 - run npm start
     
