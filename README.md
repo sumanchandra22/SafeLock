@@ -8,11 +8,23 @@
 
  <div>
 <img src ="public/images/ss1.jpg" width = 100%>
+ <br>
+ <br>
 <img src ="public/images/ss2.jpg" width = 100%>
+ <br>
+ <br>
 <img src ="public/images/ss3.jpg" width = 100%>
+ <br>
+ <br>
 <img src ="public/images/ss4.jpg" width = 100%>
+ <br>
+ <br>
 <img src ="public/images/ss5.jpg" width = 100%>
+ <br>
+ <br>
 <img src ="public/images/ss6.jpg" width = 100%>
+ <br>
+ <br>
 </div>
 
 
