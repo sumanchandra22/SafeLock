@@ -7,22 +7,28 @@
 <h4>Home/Login page </h2>
 
  <div>
-<img src ="public/images/ss1.jpg" width = 50%>
-<img src ="public/images/ss2.jpg" width = 50%>
-<img src ="public/images/ss3.jpg" width = 50%>
-<img src ="public/images/ss4.jpg" width = 50%>
-<img src ="public/images/ss5.jpg" width = 50%>
-<img src ="public/images/ss6.jpg" width = 50%>
+<img src ="public/images/ss1.jpg" width = 40%>
+<img src ="public/images/ss2.jpg" width = 40%>
+<img src ="public/images/ss3.jpg" width = 40%>
+<img src ="public/images/ss4.jpg" width = 40%>
+<img src ="public/images/ss5.jpg" width = 40%>
+<img src ="public/images/ss6.jpg" width = 40%>
 </div>
 
 
 <h2 id="TechnologyStack">Technology Stack</h2>
 
-  Frontend :![EJS](public/images/ejs1.jpg)
+  Frontend : <img src ="public/images/ss6.jpg" width = 30%>
+ 
+
+   <img src ="https://en.wikipedia.org/wiki/Node.js#/media/File:Node.js_logo.svg" width = 30%>
+   <img src ="https://en.wikipedia.org/wiki/Express.js#/media/File:Expressjs.png" width = 30%>
   
-   ![NodeJS](https://en.wikipedia.org/wiki/Node.js#/media/File:Node.js_logo.svg) , ![Express.js](https://en.wikipedia.org/wiki/Express.js#/media/File:Expressjs.png)
+  
   <br>
-  Database : ![MongoDB](https://upload.wikimedia.org/wikipedia/commons/9/93/MongoDB_Logo.svg)
+
+  Database : <img src ="https://upload.wikimedia.org/wikipedia/commons/9/93/MongoDB_Logo.svg" width = 30%>
+   
   <br>
-  File Storage : 
-<img src = "https://upload.wikimedia.org/wikipedia/commons/1/18/Ipfs-logo-1024-ice-text.png" width = "50" height ="40">
+  File Storage : <img src ="https://upload.wikimedia.org/wikipedia/commons/1/18/Ipfs-logo-1024-ice-text.png" width = 30%>
+ 
